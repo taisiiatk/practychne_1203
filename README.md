@@ -26,7 +26,6 @@
 ```
    source .venv/bin/activate
 ```
-```
 
 ## Запуск
 ```
