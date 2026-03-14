@@ -1,0 +1,12 @@
+# Віртуальне середовище
+.venv/
+
+# Python кеш
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Змінні середовища
+.env

@@ -1,0 +1,10 @@
+[project]
+name = "practychne-1203" # назва папки
+version = "0.1.0"
+description = "Простий веб-сервер на FastAPI"
+requires-python = ">=3.12" # версія пайтону
+
+dependencies = [
+    "fastapi",
+    "uvicorn",
+]
