@@ -6,7 +6,7 @@
 
 1. Клонуй репозиторій і перейди в папку:
 ```
-   git clone <url>
+   git clone <https://github.com/taisiiatk/practychne_1203.git>
    cd practychne_1203
 ```
 
