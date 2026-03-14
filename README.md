@@ -27,6 +27,11 @@
    source .venv/bin/activate
 ```
 
+4. Встанови залежності:
+```
+   pip install fastapi uvicorn
+```
+
 ## Запуск
 ```
 uvicorn main:app 
