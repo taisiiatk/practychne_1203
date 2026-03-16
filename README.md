@@ -22,7 +22,7 @@
 ```
    git clone https://github.com/taisiiatk/practychne_1203.git
 ```
-і перейди в папку practychne_1203
+   і відкрий у VS Code папку practychne_1203
 
 2. Створи віртуальне середовище:
 ```
@@ -31,12 +31,12 @@
 
 3. Активуй його:
 
-**Windows (PowerShell):**
+   **Windows (PowerShell):**
 ```
    .venv\Scripts\activate
 ```
 
-**Mac**
+   **Mac**
 ```
    source .venv/bin/activate
 ```
