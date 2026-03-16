@@ -3,4 +3,4 @@ from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 
-app.mount("/", StaticFiles(directory="pages"))
+app.mount("/", StaticFiles(directory="pages", html=True))
